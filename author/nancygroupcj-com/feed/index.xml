@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nancy@groupcj.com &#8211; Group CJ Lexington Kentucky</title>
+	<atom:link href="/author/nancygroupcj-com/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 04 Oct 2013 15:44:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Thoughts on marketing that matters.</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[nancy@groupcj.com]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 12:54:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://wellingtonarmslexington.com/groupcj2/?p=1</guid>
+
+					<description><![CDATA[We have a passion for marketing that matters. We seek out important clients and causes we are proud to support and make them highly visible and relevant. For 25 years, we’ve been engaged in enterprises that directly or indirectly serve the cause of Lexington’s economic development by improving the quality of life which all of us enjoy. We're not just&#160;<a href="/hello-world/" class="read-more">Continue Reading</a>]]></description>
+										<content:encoded><![CDATA[<p>We have a passion for marketing that matters. We seek out important clients and causes we are proud to support and make them highly visible and relevant.</p>
+<p>For 25 years, we’ve been engaged in enterprises that directly or indirectly serve the cause of Lexington’s economic development by improving the quality of life which all of us enjoy. We're not just familiar with Lexington’s strengths as a thriving city of the future, we’re passionately invested in its potential to become The Next Great American City. We are actively engaged on many fronts to help make this place where people want to live, work and invest in.</p>
+<p>We couldn't be more excited to be living in this town. Right now. At this very moment.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

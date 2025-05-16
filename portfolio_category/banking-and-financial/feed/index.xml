@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Banking &#8211; Group CJ Lexington Kentucky</title>
+	<atom:link href="/portfolio_category/banking-and-financial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Nov 2013 16:36:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Farmers Bank</title>
+		<link>/portfolio-view/farmers-bank/</link>
+		
+		<dc:creator><![CDATA[nancy@groupcj.com]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2012 12:44:16 +0000</pubDate>
+				<guid isPermaLink="false">http://wellingtonarmslexington.com/groupcj2/?post_type=portfolio&#038;p=2632</guid>
+
+					<description><![CDATA[Farmers Bank in Frankfort felt its image got a bit stodgy and old fashioned. Our agency developed a fresh approach to television and print, attracting new customers to the established bank.]]></description>
+										<content:encoded><![CDATA[<p>Farmers Bank in Frankfort felt its image got a bit stodgy and old fashioned. Our agency developed a fresh approach to television and print, attracting new customers to the established bank.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>United Bank</title>
+		<link>/portfolio-view/united-bank/</link>
+		
+		<dc:creator><![CDATA[nancy@groupcj.com]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2012 12:42:55 +0000</pubDate>
+				<guid isPermaLink="false">http://wellingtonarmslexington.com/groupcj2/?post_type=portfolio&#038;p=2631</guid>
+
+					<description><![CDATA[As three sister banks merged, there was concern about losing customers resistant to change. The solution? United Bank become the brand new bank you’ve known for years. By using a combination of recognizable photos of the bank personnel, a new identity and slogan, the new bank brand was unveiled in a fresh, bold manner. [mejsvideo src="/wp-content/uploads/2013/10/UBSamePeople.mp4" width="348" height="288"]]]></description>
+										<content:encoded><![CDATA[<p>As three sister banks merged, there was concern about losing customers resistant to change. The solution? United Bank become the brand new bank you’ve known for years. By using a combination of recognizable photos of the bank personnel, a new identity and slogan, the new bank brand was unveiled in a fresh, bold manner.</p>
+<p><center>[mejsvideo src="/wp-content/uploads/2013/10/UBSamePeople.mp4" width="348" height="288"]</center></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
